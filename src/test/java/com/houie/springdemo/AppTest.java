@@ -1,4 +1,4 @@
-package com.houie.demo;
+package com.houie.springdemo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

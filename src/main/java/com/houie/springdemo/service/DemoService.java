@@ -1,4 +1,4 @@
-package com.houie.demo.service;
+package com.houie.springdemo.service;
 
 /**
  * Created by houie on 7/21/2017.

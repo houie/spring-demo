@@ -1,6 +1,6 @@
-package com.houie.demo.controller;
+package com.houie.springdemo.controller;
 
-import com.houie.demo.service.DemoService;
+import com.houie.springdemo.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

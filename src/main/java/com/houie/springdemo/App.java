@@ -1,4 +1,4 @@
-package com.houie.demo;
+package com.houie.springdemo;
 
 /**
  * Hello world!

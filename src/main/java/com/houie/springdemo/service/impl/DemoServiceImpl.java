@@ -1,6 +1,6 @@
-package com.houie.demo.service.impl;
+package com.houie.springdemo.service.impl;
 
-import com.houie.demo.service.DemoService;
+import com.houie.springdemo.service.DemoService;
 
 /**
  * Created by houie on 7/21/2017.
